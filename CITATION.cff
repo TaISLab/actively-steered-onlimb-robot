@@ -1,0 +1,43 @@
+cff-version: 1.2.0
+message: >-
+  If you use this repository, please cite it using the metadata below,
+  and cite the associated publication using the "preferred-citation"
+  entry.
+title: Actively Steered Open On-Limb Robot
+type: software
+authors:
+  - family-names: Tobar-Subía-Contento
+    given-names: L. M.
+  - family-names: Valenzuela
+    given-names: J.
+  - family-names: Mandow
+    given-names: A.
+  - family-names: Gómez-de-Gabriel
+    given-names: J. M.
+    email: jesus.gomez@uma.es
+    affiliation: TaISLab, Universidad de Málaga
+repository-code: 'https://github.com/TaISLab/actively-steered-onlimb-robot'
+license: MIT
+preferred-citation:
+  type: article
+  title: >-
+    Actively Steered Open On-Limb Robot with Alignment Control and Online
+    Diameter Estimation
+  authors:
+    - family-names: Tobar-Subía-Contento
+      given-names: L. M.
+    - family-names: Valenzuela
+      given-names: J.
+    - family-names: Mandow
+      given-names: A.
+    - family-names: Gómez-de-Gabriel
+      given-names: J. M.
+  journal: Electronics
+  publisher:
+    name: MDPI
+  volume: 15
+  issue: 17
+  article-number: '4028'
+  year: 2026
+  doi: 10.3390/electronics15174028
+  url: 'https://www.mdpi.com/2079-9292/15/17/4028'
