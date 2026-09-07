@@ -89,8 +89,6 @@ GitHub users can use the **“Cite this repository”** option when the `CITATIO
 
 This work is part of project PID2021-127221OB-I00 (CONCERTO — Control Colaborativo para Interacción física Empática entre RoboT y humanO), funded by MICIU/AEI/10.13039/501100011033/FEDER, UE.
 
-TaISLab, Universidad de Málaga.
-
 ## Acknowledgment
 
 This repository accompanies academic research on wearable robotic systems and is provided to facilitate reproducibility and further research in the field.
