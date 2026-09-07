@@ -4,7 +4,7 @@ On-limb robot designed to move along compliant cylindrical surfaces, such as hum
 
 This repository accompanies the paper:
 
-> L. M. Tobar-Subia-Contento, J. Valenzuela, A. Mandow, and J. M. Gómez-de-Gabriel, **"Actively Steered Open On-Limb Robot with Alignment Control and Online Diameter Estimation,"** submitted to *Electronics* (MDPI), 2026.
+> Tobar-Subía-Contento, L.M.; Valenzuela, J.; Mandow, A.; Gómez-de-Gabriel, J.M. **"Actively Steered Open On-Limb Robot with Alignment Control and Online Diameter Estimation."** *Electronics* **2026**, *15*(17), 4028. https://doi.org/10.3390/electronics15174028
 
 The main contribution is an integrated open on-limb robotic platform with active steering for real-time locomotion and alignment control. A generalized kinematic framework based on the complete Jacobian of the roller centers provides a geometric alignment variable for closed-loop steering correction and enables coordinate-independent online estimation of the supporting surface diameter from proprioceptive measurements.
 
@@ -70,10 +70,10 @@ The electronic design files are provided to support reproduction, inspection, an
 
 If you use the files provided in this repository for academic or research purposes, please cite the associated publication:
 
-**[ARTICLE TITLE]**
-[AUTHOR(S)]
-[JOURNAL], [YEAR]
-DOI: [DOI]
+**Actively Steered Open On-Limb Robot with Alignment Control and Online Diameter Estimation**
+Tobar-Subía-Contento, L.M.; Valenzuela, J.; Mandow, A.; Gómez-de-Gabriel, J.M.
+*Electronics* **2026**, *15*(17), 4028
+DOI: [10.3390/electronics15174028](https://doi.org/10.3390/electronics15174028)
 
 The complete bibliographic information should also be available through the `CITATION.cff` file included in this repository.
 
