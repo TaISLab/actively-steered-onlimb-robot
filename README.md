@@ -16,14 +16,9 @@ The repository is organized into two main sections:
 
 ```text
 repository/
-├── mechanical/
-│   └── STL/
-│
+├── CAD/
 ├── electronics/
-│   ├── proyecto_robot_limbot.kicad_pro
-│   ├── proyecto_robot_limbot.kicad_sch
-│   └── proyecto_robot_limbot.kicad_pcb
-│
+├── MICIU+Cofinanciado+AEI.jpg
 ├── README.md
 ├── CITATION.cff
 └── LICENSE
