@@ -66,22 +66,11 @@ Temporary files, local configuration files, autosaves, and backup directories ge
 
 The electronic design files are provided to support reproduction, inspection, and further development of the hardware used in the research prototype.
 
-## Associated Publication
-
-If you use the files provided in this repository for academic or research purposes, please cite the associated publication:
-
-**Actively Steered Open On-Limb Robot with Alignment Control and Online Diameter Estimation**
-Tobar-Subía-Contento, L.M.; Valenzuela, J.; Mandow, A.; Gómez-de-Gabriel, J.M.
-*Electronics* **2026**, *15*(17), 4028
-DOI: [10.3390/electronics15174028](https://doi.org/10.3390/electronics15174028)
-
-The complete bibliographic information should also be available through the `CITATION.cff` file included in this repository.
-
 ## Citation
 
-If you use or adapt the mechanical or electronic designs contained in this repository, please cite both the associated scientific publication and, when appropriate, this repository.
+If you use or adapt the files, mechanical designs, or electronic designs contained in this repository for academic or research purposes, please cite the associated publication (see reference above) and, when appropriate, this repository.
 
-GitHub users can use the **“Cite this repository”** option when the `CITATION.cff` metadata is available.
+GitHub users can use the **“Cite this repository”** option, or refer directly to the `CITATION.cff` file included in this repository, which contains the complete bibliographic metadata for both the article and the repository.
 
 ## Funding
 
