@@ -72,7 +72,6 @@ The embedded control code was implemented for the ESP32-based controller and inc
 ControlSoftware/
 ├── actively-steered-onlimb-robot.ino
 ├── robot_control_interface.py
-└── README.md
 ```
 
 ## Citation
