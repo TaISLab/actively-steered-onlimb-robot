@@ -18,6 +18,7 @@ The repository is organized into two main sections:
 repository/
 ├── CAD/
 ├── electronics/
+├── ControlSoftware/
 ├── MICIU+Cofinanciado+AEI.jpg
 ├── README.md
 ├── CITATION.cff
@@ -60,6 +61,19 @@ The project can be opened directly in **KiCad** using the `.kicad_pro` file.
 Temporary files, local configuration files, autosaves, and backup directories generated automatically by KiCad are not included in the repository.
 
 The electronic design files are provided to support reproduction, inspection, and further development of the hardware used in the research prototype.
+
+# Control Software
+
+This folder contains the software used for the control and experimental operation of the actively-steered on-limb robot.
+
+The embedded control code was implemented for the ESP32-based controller and includes motor position control, servo control, sensor acquisition, signal filtering, serial communication, and experimental data transmission.
+
+```text
+ControlSoftware/
+├── actively-steered-onlimb-robot.ino
+├── robot_control_interface.py
+└── README.md
+```
 
 ## Citation
 
